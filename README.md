@@ -1,6 +1,6 @@
 # block-editable-limited
 
-[see demo](https://playground.wordpress.net/?blueprint-url=https://raw.githubusercontent.com/wordpress-juanmaguitar/block-editable-limited/blob/trunk/_playground/blueprint.json)
+[see demo](https://playground.wordpress.net/?blueprint-url=https://raw.githubusercontent.com/wordpress-juanmaguitar/block-editable-limited/trunk/_playground/blueprint.json)
 
 ```js
 import { useBlockProps, RichText } from '@wordpress/block-editor';
